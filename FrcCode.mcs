@@ -1,0 +1,234 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=S:\controls\!FINAL VERSIONS OF OLD CODE\2007 Code\main.o
+Folder=Intermediary
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_LARGE_CODE -mL
+[File001]
+Location=S:\controls\!FINAL VERSIONS OF OLD CODE\2007 Code\user_routines_fast.o
+Folder=Intermediary
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_LARGE_CODE -mL
+[File002]
+Location=S:\controls\!FINAL VERSIONS OF OLD CODE\2007 Code\ifi_startup.o
+Folder=Intermediary
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_LARGE_CODE -mL
+[File003]
+Location=S:\controls\!FINAL VERSIONS OF OLD CODE\2007 Code\ifi_utilities.o
+Folder=Intermediary
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_LARGE_CODE -mL
+[File004]
+Location=S:\controls\!FINAL VERSIONS OF OLD CODE\2007 Code\user_routines.o
+Folder=Intermediary
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_LARGE_CODE -mL
+[File005]
+Location=S:\controls\!FINAL VERSIONS OF OLD CODE\2007 Code\adc.o
+Folder=Intermediary
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_LARGE_CODE -mL
+[File006]
+Location=S:\controls\!FINAL VERSIONS OF OLD CODE\2007 Code\camera.o
+Folder=Intermediary
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_LARGE_CODE -mL
+[File007]
+Location=S:\controls\!FINAL VERSIONS OF OLD CODE\2007 Code\serial_ports.o
+Folder=Intermediary
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_LARGE_CODE -mL
+[File008]
+Location=S:\controls\!FINAL VERSIONS OF OLD CODE\2007 Code\eeprom.o
+Folder=Intermediary
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_LARGE_CODE -mL
+[File009]
+Location=S:\controls\!FINAL VERSIONS OF OLD CODE\2007 Code\terminal.o
+Folder=Intermediary
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_LARGE_CODE -mL
+[File010]
+Location=S:\controls\!FINAL VERSIONS OF OLD CODE\2007 Code\calibrate.o
+Folder=Intermediary
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_LARGE_CODE -mL
+[File011]
+Location=S:\controls\!FINAL VERSIONS OF OLD CODE\2007 Code\encoder.o
+Folder=Intermediary
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_LARGE_CODE -mL
+[File012]
+Location=S:\controls\!FINAL VERSIONS OF OLD CODE\2007 Code\crab_drive.o
+Folder=Intermediary
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_LARGE_CODE -mL
+[File013]
+Location=S:\controls\!FINAL VERSIONS OF OLD CODE\2007 Code\autonomous_166.o
+Folder=Intermediary
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_LARGE_CODE -mL
+[File014]
+Location=S:\controls\!FINAL VERSIONS OF OLD CODE\2007 Code\user_byte_166.o
+Folder=Intermediary
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_LARGE_CODE -mL
+[File015]
+Location=S:\controls\!FINAL VERSIONS OF OLD CODE\2007 Code\manipulator.o
+Folder=Intermediary
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_LARGE_CODE -mL
+[File016]
+Location=S:\controls\!FINAL VERSIONS OF OLD CODE\2007 Code\camera_166.o
+Folder=Intermediary
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_LARGE_CODE -mL
+[File017]
+Location=FrcCode.cof
+Folder=Output
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\mcc18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(TARGETBASE).cof"
+[File018]
+Location=FrcCode.cod
+Folder=Output
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\mcc18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(TARGETBASE).cof"
+[File019]
+Location=FrcCode.hex
+Folder=Output
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\mcc18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(TARGETBASE).cof"
+[File020]
+Location=FrcCode.lst
+Folder=Output
+DeviceName=PIC18F8722
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\mcc18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_routines_fast.c|ifi_startup.c|ifi_utilities.c|user_routines.c|adc.c|camera.c|serial_ports.c|eeprom.c|terminal.c|calibrate.c|encoder.c|crab_drive.c|autonomous_166.c|user_byte_166.c|manipulator.c|camera_166.c||<obj>||<lib>|FRC_library_8722.lib||<lkr>|18f8722.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(TARGETBASE).cof"
